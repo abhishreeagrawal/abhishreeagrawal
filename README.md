@@ -10,15 +10,15 @@ You can click the Preview link to take a look at your changes.
 
 Competencies:
 
-Project & Product Management
-Data Analysis
-Data Visualization
-Creative Thinking
-Problem Solving
+Project & Product Management,
+Data Analysis,
+Data Visualization,
+Creative Thinking,
+Problem Solving.
 
 Technical Skills:
-SQL
-Python
-Tableau
-Microsoft Excel
-Orange
+SQL,
+Python,
+Tableau,
+Microsoft Excel,
+Orange.
