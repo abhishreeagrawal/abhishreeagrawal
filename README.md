@@ -17,6 +17,7 @@ Creative Thinking,
 Problem Solving.
 
 Technical Skills:
+
 SQL,
 Python,
 Tableau,
